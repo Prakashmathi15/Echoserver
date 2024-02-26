@@ -63,13 +63,12 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ### SERVER
 
-![image](https://github.com/Prakashmathi2004/Echoserver/assets/118350045/3ae5f9fe-2374-4be7-8a84-c31a85b9df3c)
-
-
-### CLIENT
 ![image](https://github.com/Prakashmathi2004/Echoserver/assets/118350045/d44d56bb-c11a-413b-ac20-d36728d10519)
 
+### CLIENT
 
+
+![image](https://github.com/Prakashmathi2004/Echoserver/assets/118350045/3ae5f9fe-2374-4be7-8a84-c31a85b9df3c)
 
 ## RESULT:
 The program is executed successfully
